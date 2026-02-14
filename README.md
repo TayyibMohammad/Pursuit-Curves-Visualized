@@ -27,5 +27,5 @@ Where $(x, y)$ is the position of the pursuer and $(x_t, y_t)$ is the position o
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/pursuit-curve-visualizer.git](https://github.com/YOUR_USERNAME/pursuit-curve-visualizer.git)
+   git clone [https://github.com/TayyibMohammad/Pursuit-Curves-Visualized.git](https://github.com/YOUR_USERNAME/pursuit-curve-visualizer.git)
    cd pursuit-curve-visualizer
